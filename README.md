@@ -60,3 +60,35 @@ I'm a developer in progress who enjoys solving problems, exploring technology, a
 <p align="center">
   <i>"Don't just learn how things work. Learn how to build them."</i>
 </p>
+
+<!-- TECHNOLOGY STACK -->
+
+<h2 align="center">⚙️ TECH ARSENAL</h2>
+
+<p align="center">
+  <i>Tools I use to turn ideas into reality</i>
+</p>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
+</p>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ LEARN • BUILD • IMPROVE • REPEAT ⚡</b>
+</p>
