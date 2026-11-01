@@ -18,3 +18,45 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=27-AB&style=for-the-badge&color=2563eb&label=PROFILE+VISITORS" />
 </p>
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Who Am I?
+
+I'm **Birhane Tamirat**, also known as **27-AB**.
+
+I'm a developer in progress who enjoys solving problems, exploring technology, and turning ideas into reality.
+
+- 🧠 I enjoy solving challenging problems.
+- 💻 I work with JavaScript and Python.
+- 🌱 Currently improving my programming skills.
+- 🔭 Building an Orthodox Study Bot.
+- 🎯 Always learning something new.
+
+</td>
+<td width="40%" valign="top">
+
+### ⚡ Quick Overview
+
+| | |
+|---|---|
+| **Username** | `27-AB` |
+| **Focus** | Problem Solving |
+| **Languages** | JS, Python, C++ |
+| **Interests** | Software Development |
+| **Mindset** | Learn & Build |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💡 My Philosophy
+
+<p align="center">
+  <i>"Don't just learn how things work. Learn how to build them."</i>
+</p>
