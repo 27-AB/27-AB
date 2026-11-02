@@ -1,53 +1,63 @@
-<!-- ANIMATED HEADER -->
-<h1 align="center">⚡ 27-AB</h1>
-
-<h3 align="center">Birhane Tamirat</h3>
+<!-- Dark Neon Profile README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+27-AB;Developer+in+Progress;Problem+Solver;JavaScript+%26+Python;Building+Ideas" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+in+Progress;Problem+Solver;JavaScript+%7C+Python+%7C+C%2B%2B;Learning+Today%2C+Building+Tomorrow" />
+  <img src="https://komarev.com/ghpvc/?username=27-AB&style=for-the-badge&color=00F5FF&label=PROFILE+VISITORS" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-00C853?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1d4ed8&height=3&section=header" width="100%" />
 </p>
 
-<p align="center">
-  <b>Building ideas. Solving problems. Learning every day.</b>
-</p>
+<h3 align="center">
+  <b>Birhane Tamirat</b>
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=27-AB&style=for-the-badge&color=2563eb&label=PROFILE+VISITORS" />
+  <i>Turning ideas into working solutions and learning by building.</i>
 </p>
-## 🧑‍💻 About Me
+
+---
+
+## 👋 About Me
+
+I’m <b>Birhane Tamirat</b>, also known as <b>27-AB</b>.
+
+I enjoy solving real problems, learning by building, and creating projects that are useful, practical, and meaningful. I’m constantly improving my technical skills and growing as a developer through hands-on work.
+
+- 🧠 Passionate about solving problems
+- 💻 Working with JavaScript and Python
+- 🌱 Constantly improving my coding skills
+- 🔭 Building useful tools and projects
+- 🎯 Focused on learning, growth, and execution
+
+---
+
+## ⚡ Quick Profile
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### 👋 Who Am I?
-
-I'm **Birhane Tamirat**, also known as **27-AB**.
-
-I'm a developer in progress who enjoys solving problems, exploring technology, and turning ideas into reality.
-
-- 🧠 I enjoy solving challenging problems.
-- 💻 I work with JavaScript and Python.
-- 🌱 Currently improving my programming skills.
-- 🔭 Building an Orthodox Study Bot.
-- 🎯 Always learning something new.
+### 🔹 Core
+- Username: `27-AB`
+- Focus: Problem Solving
+- Languages: JavaScript, Python, C++
+- Interests: Software Development, Automation, Building Tools
+- Mindset: Learn • Build • Improve
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Quick Overview
-
-| | |
-|---|---|
-| **Username** | `27-AB` |
-| **Focus** | Problem Solving |
-| **Languages** | JS, Python, C++ |
-| **Interests** | Software Development |
-| **Mindset** | Learn & Build |
+### 🔹 Current Goals
+- Strengthen my coding fundamentals
+- Build practical real-world projects
+- Improve logic, architecture, and clean design
+- Learn backend, automation, and scalable solutions
 
 </td>
 </tr>
@@ -55,30 +65,24 @@ I'm a developer in progress who enjoys solving problems, exploring technology, a
 
 ---
 
-### 💡 My Philosophy
+## 🧠 Philosophy
 
 <p align="center">
-  <i>"Don't just learn how things work. Learn how to build them."</i>
+  <i>“Don’t just learn how things work. Learn how to build them.”</i>
 </p>
 
-<!-- TECHNOLOGY STACK -->
+---
 
-<h2 align="center">⚙️ TECH ARSENAL</h2>
+## ⚙️ Tech Stack
 
-<p align="center">
-  <i>Tools I use to turn ideas into reality</i>
-</p>
-
-<h3 align="center">💻 Programming Languages</h3>
-
+### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
 </p>
 
-<h3 align="center">🛠️ Development Tools</h3>
-
+### 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
 <p align="center">
@@ -89,38 +93,39 @@ I'm a developer in progress who enjoys solving problems, exploring technology, a
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <b>⚡ LEARN • BUILD • IMPROVE • REPEAT ⚡</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=27-AB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center" width="100%">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=27-AB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
-
-<!-- ───────── PROJECT 1: ASTU ANALYTICS (MAJOR) ───────── -->
 <td width="60%" valign="top">
 
-<h3 align="center">⭐ ASTU Analytics Portal</h3>
-<p align="center"><i>Research &amp; Community Analytics Dashboard — Adama Science and Technology University</i></p>
+### ⭐ ASTU Analytics Portal
+<p align="center"><i>Research & Community Analytics Dashboard</i></p>
 
-<!-- Optional screenshot: upload an image to your repo (e.g. /assets/astu.png), then uncomment -->
-<!--
-<p align="center">
-  <img src="./assets/astu.png" alt="ASTU Analytics screenshot" width="95%">
-</p>
--->
-
-A platform for managing university and community research in one place.
+A platform designed to manage university and community research in one place.
 
 **Main features**
-- 🎓 Managing university research
-- 🤝 Supporting community research
-- 💰 Tracking research funding
-- 🗂️ Managing research-related information
-- 🔐 Login system supporting different user roles
+- 🎓 Research management
+- 🤝 Community collaboration
+- 💰 Funding tracking
+- 🗂️ Research information organization
+- 🔐 Role-based login system
 
-**Deployment:** Vercel (Render also part of the setup)
+**Deployment:** Vercel  
+**Live Demo:** https://astu-analytics.vercel.app/  
+**Login Page:** https://astu-analytics.vercel.app/login
 
 <p align="center">
   <a href="https://astu-analytics.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0A66C2?style=for-the-badge" alt="Live Demo"></a>
@@ -128,24 +133,18 @@ A platform for managing university and community research in one place.
   <a href="https://github.com/27-AB/new-repo"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="Repository"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel" alt="Vercel">
-  <!-- Add verified tech badges here in Step 2 -->
-</p>
-
 </td>
 
-<!-- ───────── PROJECT 2: ORTHODOX STUDY BOT ───────── -->
 <td width="40%" valign="top">
 
-<h3 align="center">📖 Orthodox Study Bot</h3>
-<p align="center"><i>Telegram bot for Orthodox Christian learning and Bible study</i></p>
+### 📖 Orthodox Study Bot
+<p align="center"><i>Telegram bot for Orthodox Christian learning</i></p>
 
-A Telegram bot that supports group Bible study and Orthodox learning.
+A Telegram bot designed to support Bible study and Orthodox learning.
 
-**Main features**
-- 📜 Today's Gospel
-- 🗓️ Upcoming group discussions
+**Features**
+- 📜 Daily Gospel
+- 🗓️ Group discussion planning
 - 📚 Study library
 - 💬 Discussion topics
 - ✝️ Bible references
@@ -156,12 +155,29 @@ A Telegram bot that supports group Bible study and Orthodox learning.
   <a href="https://github.com/27-AB/orthodox-study-bot"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="Repository"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  <!-- Add verified tech badges here in Step 2 -->
-</p>
-
 </td>
-
 </tr>
 </table>
+
+---
+
+## 🌱 Currently Learning
+
+- JavaScript in-depth concepts
+- Python application development
+- Better architecture and project design
+- Clean code and scalable solutions
+- Problem solving with real-world constraints
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/27-AB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:birhanetamirat0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <b>⚡ LEARN • BUILD • IMPROVE • REPEAT ⚡</b>
+</p>
